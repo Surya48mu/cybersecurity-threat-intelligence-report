@@ -53,6 +53,4 @@ Full source list is in the References section of the PDF. Main sources include t
 
 This is an educational, simulated internship deliverable. All incidents discussed are publicly documented events. Figures come from public reporting and may be revised as investigations continue.
 
-## Connect
 
-- LinkedIn: _add your profile link here_
